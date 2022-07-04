@@ -1,6 +1,7 @@
-# CURSO-DE-HTML-E-CSS-3
- Modulo 3 do Curso de HTML e CSS
- https://youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ
+# CURSO-DE-CSS3
 
- Estou aprendendo a criar sites e a gerir meus Repositórios!
+Curso de CSS3 do Professor Edson Maia
+    
+https://youtube.com/playlist?list=PLnex8IkmReXymxq-k_2p12xcYBMn2g8qp
+
 
