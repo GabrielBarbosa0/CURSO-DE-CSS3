@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+p{
+    font-family: serif;
+    font-size: 20px;
+    color: rgb(65, 65, 65);
+}
+/* Seletor de ID */
+#topo{  
+    background: gray;
+}
+
+#rodape{
+    background-color: tomato;
+}
+
+/* Seletor de CLASS */
+
+.assuntos{
+    background-color: aquamarine;
+    margin: 10px 0px 10px 0px;
+}
